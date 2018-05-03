@@ -5,5 +5,5 @@ My user configurations for a setup
 
 Install oh-my-zsh
 
-Add `source /path/to/this/project/.zshrc-append`
+Add `source /path/to/this/project/.zshrc-append` to the end of the `.zshrc` file
 
